@@ -32,9 +32,9 @@ The Decorator Design pattern suggests that you extend the functionality of objec
 * When you don't need to create a flexible alternative to sub-classing for extending functionality.
 
 ## **Real-world examples**
-* The InputStream and OutputStream classes in Java, which are used to read and write data and can be decorated with additional functionality such as compression, encryption, and buffering.
-* The HttpServletRequestWrapper and HttpServletResponseWrapper classes in Java Servlet API, which are used to add additional functionality to the request and response objects.
-* The Border class in the Java Swing library, which is used to add borders to various components.
+* The `InputStream` and `OutputStream` classes in Java, which are used to read and write data and can be decorated with additional functionality such as compression, encryption, and buffering.
+* The `HttpServletRequestWrapper` and `HttpServletResponseWrapper` classes in Java Servlet API, which are used to add additional functionality to the request and response objects.
+* The `Border` class in the Java Swing library, which is used to add borders to various components.
 
 ## **Conclusion**
 The Decorator Design pattern is a powerful and flexible pattern that allows you to add new functionality to an existing object without changing its structure. It is important to use it in the appropriate situation to keep the code simple and easy to understand. It is a good alternative to using inheritance when you want to add behavior to individual objects at run-time.
