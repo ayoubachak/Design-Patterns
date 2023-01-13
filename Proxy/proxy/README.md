@@ -22,3 +22,4 @@ In the main method, we can see how this pattern works, where we create an instan
 ## **Disadvantages**
 * It can introduce an additional level of indirection, which can make the system harder to understand.
 * It can lead to a proliferation of small proxy classes that can make the system more difficult to maintain.
+
