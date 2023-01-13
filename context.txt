@@ -17,3 +17,19 @@ Facade: This pattern provides a simplified interface to a complex system, making
 Template Method: This pattern defines the skeleton of an algorithm in a method, allowing subclasses to fill in the details.
 
 Iterator: This pattern allows iteration over a collection of objects without exposing the underlying representation of the collection.
+
+Proxy pattern: This pattern controls access to an object by providing a surrogate.
+
+State pattern: which enables an object to change its behavior based on its internal state.
+
+Interpreter pattern: which defines a language and provides an interpreter for it.
+
+Visitor pattern: which separates an algorithm from an object structure on which it operates.
+
+Composite pattern: which composes objects into tree structures to represent part-whole hierarchies.
+
+Builder pattern: which separates the construction of a complex object from its representation.
+
+Prototype pattern: which creates new objects by copying existing ones.
+
+Chain of Responsibility, Mediator which are behavioral patterns that are used to manage communication and dependencies between objects.
