@@ -1,0 +1,3 @@
+interface Label {
+    void paint();
+}
