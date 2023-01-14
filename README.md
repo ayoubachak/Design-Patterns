@@ -19,7 +19,7 @@ This repository contains Java implementations and explanations of 18 different d
 * **Prototype pattern :** which creates new objects by copying existing ones.
 * **Chain of Responsibility, Mediator** which are behavioral patterns that are used to manage communication and dependencies between objects.
 
-* **Abstract Factory :**: This pattern creates families of related objects without specifying their concrete classes, providing an interface for creating them in different ways.
+* **Abstract Factory :** This pattern creates families of related objects without specifying their concrete classes, providing an interface for creating them in different ways.
 
 
 Each design pattern is presented in its own package, with a detailed explanation of the pattern and a code example that demonstrates how the pattern can be applied in a real-world scenario.
