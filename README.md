@@ -41,10 +41,7 @@ If you find any bugs or have any suggestions for improvements, or some details t
 I did not have enough time to add more design patterns, so feel free to submit a pull request if you think I missed an important one.
 
 ## **Author**
-This repository was created by [Your name or username].
-
-License
-This repository is licensed under the MIT License.
+This repository was created by Ayoub Achak.
 
 ## **Acknowledgments**
 I would like to acknowledge the Gang of Four and their book "Design Patterns: Elements of Reusable Object-Oriented Software" as the inspiration for this repository.
